@@ -3152,11 +3152,13 @@ layout: default
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**Confident Natural Policy Gradient for Local Planning in $q_π$ -realizable Constrained MDPs**|Tian Tian et.al.|[2406.18529](http://arxiv.org/abs/2406.18529)|null|
 |**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
+|**2024-06-26**|**Digging its own Site: Linear Coordination Stabilizes a Pt1/Fe2O3 Single-Atom Catalyst**|Ali Rafsanjani-Abbasi et.al.|[2406.18525](http://arxiv.org/abs/2406.18525)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
 |**2024-06-26**|**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**|Zirui Wang et.al.|[2406.18521](http://arxiv.org/abs/2406.18521)|null|
 |**2024-06-26**|**Generalized Concentratable Entanglement via Parallelized Permutation Tests**|Xiaoyu Liu et.al.|[2406.18517](http://arxiv.org/abs/2406.18517)|null|
 |**2024-06-26**|**Particle-Particle Random Phase Approximation for Predicting Correlated Excited States of Point Defects**|Jiachen Li et.al.|[2406.18515](http://arxiv.org/abs/2406.18515)|null|
 |**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508](http://arxiv.org/abs/2406.18508)|null|
+|**2024-06-26**|**The equivariant model structure on cartesian cubical sets**|Steve Awodey et.al.|[2406.18497](http://arxiv.org/abs/2406.18497)|null|
 |**2024-06-26**|**Equilibria in a Hypercube Spatial Voting Model**|A. Nicholas Day et.al.|[2406.18466](http://arxiv.org/abs/2406.18466)|null|
 |**2024-06-26**|**Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning**|Alexandros Kontogiannis et.al.|[2406.18464](http://arxiv.org/abs/2406.18464)|null|
 
