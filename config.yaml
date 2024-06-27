@@ -24,4 +24,6 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "metabolism": 
         filters: ["metabolism",'nature','cell','science']
+    'epigenetic':
+        filters:['epigenetic']
 
