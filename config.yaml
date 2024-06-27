@@ -23,5 +23,5 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "metabolism": 
-        filters: ["metabolism",'nature','cell','scien']
+        filters: ["metabolism",'nature','cell','science']
 
